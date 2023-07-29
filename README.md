@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Wowlouis0721
-- 👀 I’m interested in Programming.
-- 🌱 I’m currently learning C, Android Studio.
-- 💞️ I’m looking to collaborate on Coding.
-- 📫 How to reach me dunno.
+- 👋 Hi, I’m Louis
+- 👀 I’m interested in a lot of topics especially math
+- 🌱 I’m currently learning C++,and Java for Android Studio.
+- 💞️ I’m looking forward to collaborate with anyone, so if ya'll interested contact me.
+- 📫 How to reach me: here's my email wowlouis721@gmail.com
 
 <!---
 Wowlouis0721/Wowlouis0721 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
